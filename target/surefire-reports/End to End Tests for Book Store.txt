@@ -1,7 +1,0 @@
--------------------------------------------------------------------------------
-Test set: End to End Tests for Book Store
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.172 s <<< FAILURE! - in End to End Tests for Book Store
-the Authorized user can Add and Remove a book.(End to End Tests for Book Store)  Time elapsed: 4.172 s  <<< FAILURE!
-java.lang.AssertionError: expected:<201> but was:<401>
-
